@@ -2,14 +2,6 @@
 
 ## 使用commons-pool2 实现的HDFS连接池
 
-#### 引用：
-```xml
-<dependency>
-    <groupId>com.lmf</groupId>
-    <artifactId>hdfs-pool</artifactId>
-</dependency>
-```
-
 #### 配置：
 
 krb认证相关配置
