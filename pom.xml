@@ -16,7 +16,7 @@
     <version>1.0-SNAPSHOT</version>
 
     <properties>
-        <hadoop.version>2.7.2</hadoop.version>
+        <hadoop.version>2.10.1</hadoop.version>
     </properties>
 
     <dependencies>
